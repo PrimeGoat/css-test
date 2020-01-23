@@ -17,3 +17,15 @@ span.underline {
 #main {
     font-weight: bold;
 }
+
+.border {
+    border-style: solid;
+}
+
+.redtext, .underline {
+    font-size: 50;
+}
+
+div > p {
+    font-size: larger;
+}
