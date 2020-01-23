@@ -1,3 +1,19 @@
 body {
     background-color: yellow;
 }
+
+.redtext {
+    color: red;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+span.underline {
+    color: green;
+}
+
+#main {
+    font-weight: bold;
+}
